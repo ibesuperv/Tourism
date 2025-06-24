@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1750589341215",
+    "title": "Hampi",
+    "description": "Hampi",
+    "location": "https://maps.app.goo.gl/cJNV4pJjrt1J9XzN8",
+    "images": [
+      "/uploads/hampi-1.png",
+      "/uploads/hampi-2.png"
+    ],
+    "status": "approved"
+  },
+  {
+    "id": "1750593091130",
+    "title": "Agumbe – The Cherrapunji of South India",
+    "description": "Agumbe is a scenic rainforest village in the Western Ghats, known for its rich biodiversity, sunset views, and King Cobra research station. A hidden gem for nature lovers.",
+    "location": "https://www.google.com/maps/place/Agumbe,+Karnataka+577411/@13.5179,75.0912,14z",
+    "images": [
+      "/uploads/agumbe--the-cherrapunji-of-south-india-1.png",
+      "/uploads/agumbe--the-cherrapunji-of-south-india-2.png",
+      "/uploads/agumbe--the-cherrapunji-of-south-india-3.png"
+    ],
+    "status": "approved"
+  },
+  {
+    "id": "1750593563549",
+    "title": "hello",
+    "description": "hello",
+    "location": "https://maps.app.goo.gl/cJNV4pJjrt1J9XzN8",
+    "images": [
+      "/uploads/hello-1.png",
+      "/uploads/hello-2.png",
+      "/uploads/hello-3.png",
+      "/uploads/hello-4.png"
+    ],
+    "status": "rejected"
+  }
+]
